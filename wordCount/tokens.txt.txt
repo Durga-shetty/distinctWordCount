@@ -1,0 +1,8 @@
+ALL Lek AFN ARS $ AWG ƒ AUD $ AZN ₼ BSD BBD BYN Br BZD BZ$ BMD BOB $b BAM KM BWP P BGN лв BRL R$ BND $ KHR ៛ CAD KYD CLP CNY ¥ COP CRC
+₡ HRK kn CUP ₱ CZK Kč DKK kr DOP RD$ XCD EGP £ SVC EUR € FKP £	FJD GHS ¢ GIP £ GTQ Q GGP £ GYD HNL L HKD HUF Ft ISK kr INR ₹ IDR Rp IRR
+IMP £ ILS ₪ JMD J$ JPY ¥ JEP KZT лв KPW ₩ KRW KGS лв LAK ₭ LBP LRD MKD 	ден MYR RM MUR ₨ MXN MNT ₮ MZN MT NAD NPR ANG ƒ NZD NIO C$ NGN 
+₦ NOK kr OMR PKR PAB B/. PYG Gs PEN S/. PHP ₱ PLN zł QAR RON lei RUB ₽ SHP SAR RSD Дин. SCR SGD  Dollar	SBD Shilling SOS S Rand	ZAR R Rupee LKR
+Krona SEK kr Franc CHF SRD Pound SYP TWD NT$ Baht THB ฿ TTD TT$ Lira TRY TVD Hryvnia UAH ₴ GBP USD Peso	UYU $U Som UZS лв Bolívar VEF Bs 
+Dong VND ₫ YER Rial ZWD Z$  Rupee Dinar Riyal Ruble Leu Zloty Peso Sol Guarani Balboa Rupee Rial Krone Naira Cordoba Antilles Guilder crore billion million
+Metical Tughrik Peso Ringgit Denar Kip Som Won Tenge Yen Shekel Rupiah Krona Forint Lempira Quetzal Cedi Euro Colon Koruna Kuna thousand
+Yuan Renminbi Riel Real Lev Pula Mark Bolíviano Ruble Manat Guilder Afghani Lek 	؋	﷼	
